@@ -5,7 +5,8 @@ Repository ini berisi file database serta dokumentasi dalam format PDF untuk sis
 ## 📂 Struktur Repository  
 
 - `database.sql` → File SQL yang berisi skema dan data awal database perpustakaan sekolah.  
-- `dokumentasi.pdf` → Dokumen berisi deskripsi sistem, ERD, serta prosedur penggunaan database.  
+- `dokumentasi.pdf` → Dokumen berisi contoh soal beserta pengejaan prosedur database.  
+- `db_perpustakaan` → Dokumen berisi deskripsi sistem, ERD, serta prosedur penggunaan database.  
 
 ## 🔧 Cara Menggunakan  
 
